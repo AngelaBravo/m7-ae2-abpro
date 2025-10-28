@@ -4,6 +4,8 @@
 
 Puedes ver la aplicación hosteada en la descripción del repo en Github o haciendo clic [**acá**.](https://m7ae2abpro.web.app/login)
 
+UPDATE: puedes probar los test unitarios con npm run test:unit
+
 ## Aprendizaje esperado
 
 Implementar un aplicativo web que consume datos desde una API REST utilizando la librería Axios para dar solución a una problemática.
